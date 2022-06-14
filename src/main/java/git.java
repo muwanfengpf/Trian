@@ -6,6 +6,7 @@ public class git {
         System.out.println("nizaiganshenm4");
         System.out.println("nizaiganshenm6 master");
         System.out.println("nizaiganshenm5  host-fix");
+        System.out.println("push  host-fix");
     }
 
 }
