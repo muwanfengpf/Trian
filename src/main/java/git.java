@@ -4,5 +4,7 @@ public class git {
         System.out.println("nizaiganshenm2");
         System.out.println("nizaiganshenm3");
         System.out.println("nizaiganshenm4");
+        System.out.println("nizaiganshenm6 master");
     }
+
 }
